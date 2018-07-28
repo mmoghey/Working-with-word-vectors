@@ -1,0 +1,424 @@
+Target word: deep
+Embedding shape: (128,)
+Embedding: [-0.52230537  0.22023986 -0.04629776  0.19253957 -0.31982848  0.30661014
+  0.18733443 -0.08669729 -0.01898297 -0.29758048 -0.0920764  -0.8303638
+ -0.14898343  0.08357458  0.1377677 ] ...
+Word: deeps similarity: 0.7949830889701843
+Word: deepest similarity: 0.6717523336410522
+Word: deeper similarity: 0.6630105972290039
+Word: deepen similarity: 0.6556046605110168
+Word: deepens similarity: 0.6223790645599365
+Word: deepak similarity: 0.6147112846374512
+Word: shallow similarity: 0.582275390625
+Word: depths similarity: 0.578804075717926
+Word: seeps similarity: 0.5582278966903687
+Word: trenchcoat similarity: 0.5457216501235962
+Word: dangrek similarity: 0.5443174839019775
+Word: shallowest similarity: 0.5442301630973816
+Word: deepwater similarity: 0.5429292917251587
+Word: muddy similarity: 0.5415909886360168
+Word: shallows similarity: 0.5344060659408569
+Cluster id labels for inputted data
+[1 1 1 1 1 1 0 0 1 1 1 0 0 2 0]
+cluster #1 :  ['shallow', 'depths', 'shallowest', 'deepwater', 'shallows']
+cluster #2 :  ['deeps', 'deepest', 'deeper', 'deepen', 'deepens', 'deepak', 'seeps', 'trenchcoat', 'dangrek']
+cluster #3 :  ['muddy']
+Target word: president
+Word: presidente similarity: 0.9213303923606873
+Word: presides similarity: 0.8907747268676758
+Word: presidents similarity: 0.8871241211891174
+Word: presidency similarity: 0.8712242841720581
+Word: presidencies similarity: 0.8693950176239014
+Word: presidentially similarity: 0.8513766527175903
+Word: presidential similarity: 0.8509241938591003
+Word: preside similarity: 0.8470571041107178
+Word: presidio similarity: 0.8283785581588745
+Word: presided similarity: 0.8180419206619263
+Word: presiding similarity: 0.8023755550384521
+Word: reelected similarity: 0.7960405349731445
+Word: nonresident similarity: 0.7828362584114075
+Word: presidencia similarity: 0.7793430089950562
+Word: vice similarity: 0.7679043412208557
+Cluster id labels for inputted data
+[1 2 1 1 1 1 1 2 2 2 2 1 1 1 0]
+cluster #1 :  ['vice']
+cluster #2 :  ['presidente', 'presidents', 'presidency', 'presidencies', 'presidentially', 'presidential', 'reelected', 'nonresident', 'presidencia']
+cluster #3 :  ['presides', 'preside', 'presidio', 'presided', 'presiding']
+Target word: self
+Word: selfless similarity: 0.6618184447288513
+Word: oneself similarity: 0.6508623957633972
+Word: conscious similarity: 0.5937493443489075
+Word: selflessness similarity: 0.5868585109710693
+Word: motivational similarity: 0.5812020301818848
+Word: selfishness similarity: 0.5760922431945801
+Word: selves similarity: 0.5750979781150818
+Word: consciously similarity: 0.5742479562759399
+Word: selfish similarity: 0.5646172761917114
+Word: merely similarity: 0.5630044341087341
+Word: intrinsically similarity: 0.5618802905082703
+Word: personhood similarity: 0.561192512512207
+Word: sufficiency similarity: 0.5603501796722412
+Word: transgressions similarity: 0.5601815581321716
+Word: motivation similarity: 0.5554453134536743
+Cluster id labels for inputted data
+[1 1 1 0 0 2 1 1 2 1 1 1 0 1 0]
+cluster #1 :  ['selflessness', 'motivational', 'sufficiency', 'motivation']
+cluster #2 :  ['selfless', 'oneself', 'conscious', 'selves', 'consciously', 'merely', 'intrinsically', 'personhood', 'transgressions']
+cluster #3 :  ['selfishness', 'selfish']
+Target word: insult
+Word: insults similarity: 0.8804971575737
+Word: insulted similarity: 0.7991806864738464
+Word: insulting similarity: 0.7544240355491638
+Word: someone similarity: 0.6605004072189331
+Word: sarcastic similarity: 0.6451000571250916
+Word: stupid similarity: 0.6412671804428101
+Word: insidious similarity: 0.6404697299003601
+Word: stupidity similarity: 0.6365090012550354
+Word: arrogance similarity: 0.6339119672775269
+Word: sarcasm similarity: 0.6301360726356506
+Word: graciously similarity: 0.6294006109237671
+Word: malicious similarity: 0.6289246082305908
+Word: gracious similarity: 0.6283590793609619
+Word: voracious similarity: 0.6225904226303101
+Word: disrespectful similarity: 0.6223365664482117
+Cluster id labels for inputted data
+[1 1 1 1 0 0 2 0 1 0 2 2 2 2 2]
+cluster #1 :  ['sarcastic', 'stupid', 'stupidity', 'sarcasm']
+cluster #2 :  ['insults', 'insulted', 'insulting', 'someone', 'arrogance']
+cluster #3 :  ['insidious', 'graciously', 'malicious', 'gracious', 'voracious', 'disrespectful']
+Target word: general
+Word: generalship similarity: 0.6766893267631531
+Word: generals similarity: 0.6569467782974243
+Word: generalissimo similarity: 0.6472075581550598
+Word: of similarity: 0.615460216999054
+Word: generalise similarity: 0.6059576869010925
+Word: generalised similarity: 0.6034964919090271
+Word: generalisation similarity: 0.6013079285621643
+Word: chairperson similarity: 0.5997210144996643
+Word: generalities similarity: 0.5964794158935547
+Word: generalisations similarity: 0.5927672982215881
+Word: generality similarity: 0.5904857516288757
+Word: generalitat similarity: 0.5904748439788818
+Word: formally similarity: 0.5815235376358032
+Word: following similarity: 0.5813201665878296
+Word: terms similarity: 0.5809812545776367
+Cluster id labels for inputted data
+[2 2 2 1 0 0 0 1 0 0 0 0 1 1 1]
+cluster #1 :  ['generalise', 'generalised', 'generalisation', 'generalities', 'generalisations', 'generality', 'generalitat']
+cluster #2 :  ['of', 'chairperson', 'formally', 'following', 'terms']
+cluster #3 :  ['generalship', 'generals', 'generalissimo']
+Target word: inclined
+Word: incline similarity: 0.8797212243080139
+Word: inclinations similarity: 0.7462128400802612
+Word: inclination similarity: 0.7178245782852173
+Word: tended similarity: 0.7085523009300232
+Word: tending similarity: 0.6922157406806946
+Word: distanced similarity: 0.6698739528656006
+Word: reclined similarity: 0.6678454279899597
+Word: subtended similarity: 0.6667341589927673
+Word: tend similarity: 0.6543121337890625
+Word: tilted similarity: 0.6424650549888611
+Word: imparted similarity: 0.6390562653541565
+Word: outwardly similarity: 0.619887113571167
+Word: orientated similarity: 0.6123713850975037
+Word: positioned similarity: 0.6083666086196899
+Word: contrasted similarity: 0.6075881719589233
+Cluster id labels for inputted data
+[0 0 0 1 1 2 2 2 1 2 2 2 2 2 2]
+cluster #1 :  ['incline', 'inclinations', 'inclination']
+cluster #2 :  ['tended', 'tending', 'tend']
+cluster #3 :  ['distanced', 'reclined', 'subtended', 'tilted', 'imparted', 'outwardly', 'orientated', 'positioned', 'contrasted']
+Target word: property
+Word: propertyless similarity: 0.8863273859024048
+Word: confiscation similarity: 0.6534369587898254
+Word: ownership similarity: 0.642305850982666
+Word: monopolies similarity: 0.6391295194625854
+Word: landholders similarity: 0.6290988922119141
+Word: monopoles similarity: 0.6273068189620972
+Word: monopolization similarity: 0.6260332465171814
+Word: stakeholders similarity: 0.6202410459518433
+Word: confiscating similarity: 0.6172428727149963
+Word: private similarity: 0.615801990032196
+Word: properties similarity: 0.6131340861320496
+Word: stakeholder similarity: 0.611985981464386
+Word: coercion similarity: 0.6116796135902405
+Word: monopole similarity: 0.6097250580787659
+Word: monopolized similarity: 0.608362078666687
+Cluster id labels for inputted data
+[1 0 1 2 1 2 2 1 0 1 1 1 0 2 2]
+cluster #1 :  ['confiscation', 'confiscating', 'coercion']
+cluster #2 :  ['propertyless', 'ownership', 'landholders', 'stakeholders', 'private', 'properties', 'stakeholder']
+cluster #3 :  ['monopolies', 'monopoles', 'monopolization', 'monopole', 'monopolized']
+Target word: international
+Word: internationals similarity: 0.9055019617080688
+Word: internationale similarity: 0.8816771507263184
+Word: internationally similarity: 0.869381308555603
+Word: internationalized similarity: 0.8670129776000977
+Word: internationalization similarity: 0.8054918050765991
+Word: internationalist similarity: 0.7915424108505249
+Word: consternation similarity: 0.7777470350265503
+Word: internationalism similarity: 0.775547444820404
+Word: transnational similarity: 0.7431249022483826
+Word: alternation similarity: 0.7189573645591736
+Word: organisational similarity: 0.6962364912033081
+Word: organization similarity: 0.6898149251937866
+Word: organizational similarity: 0.6874805688858032
+Word: organisation similarity: 0.6812298893928528
+Word: intern similarity: 0.6619317531585693
+Cluster id labels for inputted data
+[1 1 1 1 1 1 1 1 1 1 0 0 0 0 2]
+cluster #1 :  ['organisational', 'organization', 'organizational', 'organisation']
+cluster #2 :  ['internationals', 'internationale', 'internationally', 'internationalized', 'internationalization', 'internationalist', 'consternation', 'internationalism', 'transnational', 'alternation']
+cluster #3 :  ['intern']
+Target word: many
+Word: some similarity: 0.9072293043136597
+Word: these similarity: 0.8375406861305237
+Word: several similarity: 0.8349475860595703
+Word: most similarity: 0.8155943155288696
+Word: such similarity: 0.8149880170822144
+Word: other similarity: 0.8038603067398071
+Word: various similarity: 0.7860854864120483
+Word: have similarity: 0.7859933376312256
+Word: are similarity: 0.7818273305892944
+Word: those similarity: 0.7705209851264954
+Word: especially similarity: 0.7693635821342468
+Word: even similarity: 0.7684284448623657
+Word: well similarity: 0.7680045962333679
+Word: notably similarity: 0.7665793299674988
+Word: all similarity: 0.7651118636131287
+Cluster id labels for inputted data
+[1 1 0 2 1 1 0 1 1 1 2 2 2 2 1]
+cluster #1 :  ['several', 'various']
+cluster #2 :  ['some', 'these', 'such', 'other', 'have', 'are', 'those', 'all']
+cluster #3 :  ['most', 'especially', 'even', 'well', 'notably']
+Target word: imprisoned
+Word: imprison similarity: 0.890367865562439
+Word: imprisons similarity: 0.8666215538978577
+Word: imprisoning similarity: 0.8568965196609497
+Word: arrested similarity: 0.8077212572097778
+Word: imprisonment similarity: 0.8023957014083862
+Word: prison similarity: 0.7877740263938904
+Word: jailed similarity: 0.7694061994552612
+Word: convicted similarity: 0.7596888542175293
+Word: incarcerated similarity: 0.7557654976844788
+Word: escaped similarity: 0.7519999146461487
+Word: pardoned similarity: 0.749266505241394
+Word: tortured similarity: 0.7451269030570984
+Word: sentenced similarity: 0.7392477989196777
+Word: murdered similarity: 0.7379828691482544
+Word: exiled similarity: 0.7315071821212769
+Cluster id labels for inputted data
+[1 1 1 2 1 1 2 0 2 2 2 2 0 2 2]
+cluster #1 :  ['convicted', 'sentenced']
+cluster #2 :  ['imprison', 'imprisons', 'imprisoning', 'imprisonment', 'prison']
+cluster #3 :  ['arrested', 'jailed', 'incarcerated', 'escaped', 'pardoned', 'tortured', 'murdered', 'exiled']
+Target word: branches
+Word: branched similarity: 0.8404749035835266
+Word: ranches similarity: 0.7889106273651123
+Word: branch similarity: 0.7868532538414001
+Word: unbranched similarity: 0.7458264827728271
+Word: branching similarity: 0.7285782694816589
+Word: guanches similarity: 0.7079470753669739
+Word: ranchers similarity: 0.6289876699447632
+Word: divisions similarity: 0.6111992597579956
+Word: groupings similarity: 0.6106602549552917
+Word: malebranche similarity: 0.6093318462371826
+Word: departments similarity: 0.5943484306335449
+Word: benches similarity: 0.5771361589431763
+Word: subdisciplines similarity: 0.5705366730690002
+Word: comprises similarity: 0.5699427723884583
+Word: purview similarity: 0.5591399073600769
+Cluster id labels for inputted data
+[1 0 1 1 1 0 0 2 2 1 2 0 2 2 1]
+cluster #1 :  ['ranches', 'guanches', 'ranchers', 'benches']
+cluster #2 :  ['branched', 'branch', 'unbranched', 'branching', 'malebranche', 'purview']
+cluster #3 :  ['divisions', 'groupings', 'departments', 'subdisciplines', 'comprises']
+Target word: communist
+Word: noncommunist similarity: 0.9182180166244507
+Word: communists similarity: 0.9017215371131897
+Word: communistic similarity: 0.8826539516448975
+Word: anticommunist similarity: 0.8811875581741333
+Word: socialist similarity: 0.8356903195381165
+Word: communism similarity: 0.8348286747932434
+Word: leninist similarity: 0.833981454372406
+Word: comintern similarity: 0.8033182621002197
+Word: stalinist similarity: 0.7858445644378662
+Word: leftist similarity: 0.7758359909057617
+Word: socialiste similarity: 0.7683320045471191
+Word: maoist similarity: 0.7659037113189697
+Word: nationalist similarity: 0.7624909281730652
+Word: perestroika similarity: 0.762305498123169
+Word: kuomintang similarity: 0.756362795829773
+Cluster id labels for inputted data
+[0 0 1 1 0 1 1 0 1 0 0 1 0 1 2]
+cluster #1 :  ['noncommunist', 'communists', 'socialist', 'comintern', 'leftist', 'socialiste', 'nationalist']
+cluster #2 :  ['communistic', 'anticommunist', 'communism', 'leninist', 'stalinist', 'maoist', 'perestroika']
+cluster #3 :  ['kuomintang']
+Target word: france
+Word: francaise similarity: 0.7259681224822998
+Word: frances similarity: 0.703305184841156
+Word: partement similarity: 0.7029423117637634
+Word: partements similarity: 0.700891375541687
+Word: marseilles similarity: 0.6949915885925293
+Word: belgium similarity: 0.6910475492477417
+Word: paris similarity: 0.6891010403633118
+Word: spain similarity: 0.6862033605575562
+Word: french similarity: 0.6860460042953491
+Word: belgique similarity: 0.6832137703895569
+Word: fran similarity: 0.6802563667297363
+Word: vres similarity: 0.6738686561584473
+Word: marseillaise similarity: 0.6726031303405762
+Word: netherlands similarity: 0.6715171933174133
+Word: italy similarity: 0.6682430505752563
+Cluster id labels for inputted data
+[0 2 0 0 0 1 0 2 0 0 0 0 0 1 2]
+cluster #1 :  ['francaise', 'partement', 'partements', 'marseilles', 'paris', 'french', 'belgique', 'fran', 'vres', 'marseillaise']
+cluster #2 :  ['belgium', 'netherlands']
+cluster #3 :  ['frances', 'spain', 'italy']
+Target word: strict
+Word: stricter similarity: 0.8228995203971863
+Word: strictest similarity: 0.7951790690422058
+Word: stricture similarity: 0.7784327864646912
+Word: strictness similarity: 0.771825909614563
+Word: restrict similarity: 0.7472134828567505
+Word: strictures similarity: 0.7017803192138672
+Word: strictly similarity: 0.6951042413711548
+Word: restrictive similarity: 0.6926371455192566
+Word: impose similarity: 0.6709955334663391
+Word: constrict similarity: 0.6642292141914368
+Word: imposes similarity: 0.6457743644714355
+Word: requirement similarity: 0.6354390978813171
+Word: practicality similarity: 0.6325616836547852
+Word: nontraditional similarity: 0.6246585249900818
+Word: restriction similarity: 0.6169959902763367
+Cluster id labels for inputted data
+[0 0 0 0 1 0 0 1 2 0 2 0 0 0 1]
+cluster #1 :  ['stricter', 'strictest', 'stricture', 'strictness', 'strictures', 'strictly', 'constrict', 'requirement', 'practicality', 'nontraditional']
+cluster #2 :  ['restrict', 'restrictive', 'restriction']
+cluster #3 :  ['impose', 'imposes']
+Target word: earthly
+Word: unearthly similarity: 0.8281334042549133
+Word: earthlike similarity: 0.7646280527114868
+Word: heavenly similarity: 0.7366359233856201
+Word: divinely similarity: 0.7249338626861572
+Word: divines similarity: 0.7129133343696594
+Word: godly similarity: 0.70816969871521
+Word: heavens similarity: 0.7080111503601074
+Word: beings similarity: 0.7072926759719849
+Word: personifications similarity: 0.7058086395263672
+Word: demigods similarity: 0.702122688293457
+Word: divine similarity: 0.6929767727851868
+Word: personified similarity: 0.6910901665687561
+Word: earth similarity: 0.688933789730072
+Word: emanations similarity: 0.6877450346946716
+Word: spiritually similarity: 0.6859133839607239
+Cluster id labels for inputted data
+[2 2 1 0 0 0 1 0 2 0 0 2 2 2 0]
+cluster #1 :  ['divinely', 'divines', 'godly', 'beings', 'demigods', 'divine', 'spiritually']
+cluster #2 :  ['heavenly', 'heavens']
+cluster #3 :  ['unearthly', 'earthlike', 'personifications', 'personified', 'earth', 'emanations']
+Target word: earthly
+Word: unearthly similarity: 0.8281334042549133
+Word: earthlike similarity: 0.7646280527114868
+Word: heavenly similarity: 0.7366359233856201
+Word: divinely similarity: 0.7249338626861572
+Word: divines similarity: 0.7129133343696594
+Word: godly similarity: 0.70816969871521
+Word: heavens similarity: 0.7080111503601074
+Word: beings similarity: 0.7072926759719849
+Word: personifications similarity: 0.7058086395263672
+Word: demigods similarity: 0.702122688293457
+Word: divine similarity: 0.6929767727851868
+Word: personified similarity: 0.6910901665687561
+Word: earth similarity: 0.688933789730072
+Word: emanations similarity: 0.6877450346946716
+Word: spiritually similarity: 0.6859133839607239
+Cluster id labels for inputted data
+[2 2 1 0 0 0 1 2 2 2 0 2 1 2 2]
+cluster #1 :  ['divinely', 'divines', 'godly', 'divine']
+cluster #2 :  ['heavenly', 'heavens', 'earth']
+cluster #3 :  ['unearthly', 'earthlike', 'beings', 'personifications', 'demigods', 'personified', 'emanations', 'spiritually']
+Target word: feminism
+Word: feminist similarity: 0.8733341693878174
+Word: feminists similarity: 0.8076423406600952
+Word: chauvinism similarity: 0.784813642501831
+Word: masculism similarity: 0.7842568755149841
+Word: sexism similarity: 0.7805454730987549
+Word: feminam similarity: 0.7794089317321777
+Word: misogyny similarity: 0.7580631375312805
+Word: femininity similarity: 0.7499252557754517
+Word: masculist similarity: 0.7440203428268433
+Word: lesbianism similarity: 0.7436510324478149
+Word: sadism similarity: 0.7299107313156128
+Word: fauvism similarity: 0.7250156402587891
+Word: transsexualism similarity: 0.710442841053009
+Word: sexuality similarity: 0.7048996686935425
+Word: libertinism similarity: 0.7001333832740784
+Cluster id labels for inputted data
+[2 2 1 2 0 2 1 2 2 0 1 1 0 0 1]
+cluster #1 :  ['sexism', 'lesbianism', 'transsexualism', 'sexuality']
+cluster #2 :  ['chauvinism', 'misogyny', 'sadism', 'fauvism', 'libertinism']
+cluster #3 :  ['feminist', 'feminists', 'masculism', 'feminam', 'femininity', 'masculist']
+Target word: ideas
+Word: idea similarity: 0.7648960947990417
+Word: concepts similarity: 0.7632832527160645
+Word: conceptions similarity: 0.729995608329773
+Word: preconceptions similarity: 0.7183107733726501
+Word: pragmaticism similarity: 0.7163236141204834
+Word: philosophies similarity: 0.7074189186096191
+Word: worldviews similarity: 0.7023835778236389
+Word: principles similarity: 0.6941665410995483
+Word: materialistic similarity: 0.6940682530403137
+Word: thinking similarity: 0.6934204697608948
+Word: notions similarity: 0.6923479437828064
+Word: theories similarity: 0.6891250014305115
+Word: ideologies similarity: 0.688300609588623
+Word: tenets similarity: 0.6862667798995972
+Word: thoughts similarity: 0.6836614012718201
+Cluster id labels for inputted data
+[0 2 2 2 0 1 0 2 0 0 2 2 1 1 0]
+cluster #1 :  ['idea', 'pragmaticism', 'worldviews', 'materialistic', 'thinking', 'thoughts']
+cluster #2 :  ['philosophies', 'ideologies', 'tenets']
+cluster #3 :  ['concepts', 'conceptions', 'preconceptions', 'principles', 'notions', 'theories']
+Target word: theory
+Word: theories similarity: 0.8339680433273315
+Word: theorise similarity: 0.8075076937675476
+Word: theorie similarity: 0.7786714434623718
+Word: theora similarity: 0.7565561532974243
+Word: theorizing similarity: 0.7547163367271423
+Word: theoretical similarity: 0.7494863271713257
+Word: notion similarity: 0.7460915446281433
+Word: theoretic similarity: 0.7423245906829834
+Word: theoria similarity: 0.7372072339057922
+Word: theorizes similarity: 0.7352717518806458
+Word: postulation similarity: 0.7347256541252136
+Word: formulation similarity: 0.7124208807945251
+Word: microtheory similarity: 0.7123873829841614
+Word: concepts similarity: 0.7040532231330872
+Word: coevolution similarity: 0.7014896869659424
+Cluster id labels for inputted data
+[1 1 1 1 1 0 2 0 1 1 2 2 1 2 1]
+cluster #1 :  ['theoretical', 'theoretic']
+cluster #2 :  ['theories', 'theorise', 'theorie', 'theora', 'theorizing', 'theoria', 'theorizes', 'microtheory', 'coevolution']
+cluster #3 :  ['notion', 'postulation', 'formulation', 'concepts']
+Target word: writings
+Word: treatises similarity: 0.7866930961608887
+Word: scholarly similarity: 0.7427442073822021
+Word: texts similarity: 0.742538332939148
+Word: teachings similarity: 0.736116349697113
+Word: works similarity: 0.7329922318458557
+Word: exegetical similarity: 0.7228606343269348
+Word: commentaries similarity: 0.7224059700965881
+Word: refutations similarity: 0.7179108262062073
+Word: treatise similarity: 0.7159920334815979
+Word: contemporaries similarity: 0.7130014300346375
+Word: prefaces similarity: 0.712836503982544
+Word: scriptures similarity: 0.7077606320381165
+Word: writing similarity: 0.707122802734375
+Word: readings similarity: 0.7005527019500732
+Word: exegetes similarity: 0.7001686096191406
+Cluster id labels for inputted data
+[2 0 1 1 0 1 0 0 2 0 0 1 0 0 1]
+cluster #1 :  ['scholarly', 'works', 'commentaries', 'refutations', 'contemporaries', 'prefaces', 'writing', 'readings']
+cluster #2 :  ['texts', 'teachings', 'exegetical', 'scriptures', 'exegetes']
+cluster #3 :  ['treatises', 'treatise']

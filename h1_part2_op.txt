@@ -1,0 +1,168 @@
+Data: 17005207
+['anarchism', 'originated', 'as', 'a', 'term', 'of', 'abuse', 'first', 'used', 'against']
+Vocab size: 50001
+Unknown tokens: 418382
+Dataset: 17005207
+[5234, 3081, 12, 6, 195, 2, 3134, 46, 59, 156]
+Starting training...
+Iteration: 1000, elapsed time: 0:00:53.775729 [53 sec/1000 iters], loss: 5.0687188353538515
+Closest to one: one, nine, four, two, eight, three
+Closest to are: are, to, is, and, was, with
+Closest to you: you, election, therefore, give, appears, need
+Closest to time: time, for, was, that, not, a
+Closest to up: up, university, out, books, found, economy
+Closest to reject: likely, methods, increased, earlier, leading, jesus
+Closest to linked: variety, course, gave, functions, returned, call
+
+Iteration: 2000, elapsed time: 0:01:47.814638 [52 sec/1000 iters], loss: 4.5747893795967105
+Closest to one: one, eight, nine, seven, zero, two
+Closest to are: are, is, and, to, as, of
+Closest to you: you, likely, need, enough, know, might
+Closest to time: time, that, the, was, to, for
+Closest to and: and, of, <UNK>, to, the, in
+Closest to their: their, to, as, and, or, is
+Closest to one: one, eight, nine, seven, zero, two
+
+Iteration: 3000, elapsed time: 0:02:41.783560 [52 sec/1000 iters], loss: 4.4560049679279325
+Closest to one: one, nine, eight, two, seven, five
+Closest to are: are, is, and, to, as, of
+Closest to you: you, we, able, might, know, must
+Closest to time: time, was, that, it, he, but
+Closest to is: is, to, and, a, of, the
+Closest to reduces: method, conditions, etc, working, create, security
+Closest to ever: ever, better, successful, degree, direct, went
+
+Iteration: 4000, elapsed time: 0:03:35.012077 [52 sec/1000 iters], loss: 4.403409801959992
+Closest to one: one, seven, nine, three, four, eight
+Closest to are: are, is, to, and, or, as
+Closest to you: you, we, able, know, must, say
+Closest to time: time, was, that, <UNK>, to, the
+Closest to zero: zero, two, four, three, five, six
+Closest to formerly: referred, literature, blood, operating, objects, programming
+Closest to non: non, variety, entire, types, create, numerous
+
+Iteration: 5000, elapsed time: 0:04:28.964885 [52 sec/1000 iters], loss: 4.357831694841385
+Closest to one: one, three, zero, five, two, four
+Closest to are: are, is, to, and, that, as
+Closest to you: you, me, we, able, say, know
+Closest to time: time, that, was, but, the, it
+Closest to working: working, companies, better, involved, frequently, existence
+Closest to see: see, into, other, list, through, of
+Closest to scotia: actress, hall, product, section, bit, coast
+
+Iteration: 6000, elapsed time: 0:05:22.888173 [52 sec/1000 iters], loss: 4.322841425895691
+Closest to one: one, six, nine, eight, three, zero
+Closest to are: are, is, to, and, or, as
+Closest to you: you, we, know, say, cannot, allowed
+Closest to time: time, that, was, which, but, the
+Closest to south: south, north, west, east, germany, islands
+Closest to none: refer, claimed, construction, rest, appear, served
+Closest to a: a, of, and, the, for, to
+
+Iteration: 7000, elapsed time: 0:06:16.076661 [52 sec/1000 iters], loss: 4.2996349835395815
+Closest to one: one, nine, five, two, four, zero
+Closest to are: are, is, and, to, or, as
+Closest to you: you, we, know, say, might, able
+Closest to time: time, that, was, the, to, by
+Closest to five: five, zero, three, four, one, two
+Closest to and: and, of, <UNK>, to, the, s
+Closest to effect: effect, ideas, surface, basis, methods, analysis
+
+Iteration: 8000, elapsed time: 0:07:10.019205 [52 sec/1000 iters], loss: 4.278309717893601
+Closest to one: one, six, two, eight, three, four
+Closest to are: are, is, be, to, and, or
+Closest to you: you, we, might, always, must, know
+Closest to time: time, that, the, <UNK>, to, and
+Closest to against: against, local, provide, forms, allow, natural
+Closest to even: even, should, evidence, similar, cannot, simply
+Closest to to: to, and, the, <UNK>, in, is
+
+Iteration: 9000, elapsed time: 0:08:03.946203 [52 sec/1000 iters], loss: 4.268946976900101
+Closest to one: one, eight, nine, zero, four, three
+Closest to are: are, is, and, or, to, as
+Closest to you: you, we, know, might, did, me
+Closest to time: time, the, to, was, <UNK>, by
+Closest to containers: street, gas, color, nuclear, units, frequently
+Closest to number: number, than, list, non, use, over
+Closest to eight: eight, six, nine, seven, three, one
+
+Iteration: 10000, elapsed time: 0:08:57.179294 [52 sec/1000 iters], loss: 4.252819320201874
+Closest to one: one, eight, nine, five, two, zero
+Closest to are: are, is, to, as, and, was
+Closest to you: you, we, might, she, must, could
+Closest to time: time, that, the, his, to, was
+Closest to the: the, of, and, s, to, <UNK>
+Closest to of: of, the, and, s, a, as
+Closest to adherents: playing, christ, hard, mean, active, programs
+
+Iteration: 11000, elapsed time: 0:09:51.120083 [52 sec/1000 iters], loss: 4.245454308509827
+Closest to one: one, nine, five, four, zero, two
+Closest to are: are, is, to, was, and, as
+Closest to you: you, we, might, know, come, did
+Closest to time: time, to, the, that, <UNK>, and
+Closest to margaret: bill, smith, wife, richard, mark, christ
+Closest to high: high, low, higher, largest, lower, physical
+Closest to moon: moon, sun, attack, performance, birth, actress
+
+Iteration: 12000, elapsed time: 0:10:45.062155 [52 sec/1000 iters], loss: 4.234312893867493
+Closest to one: one, five, three, two, zero, four
+Closest to are: are, is, and, to, or, as
+Closest to you: you, we, might, say, know, should
+Closest to time: time, that, the, <UNK>, to, was
+Closest to <UNK>: <UNK>, and, of, s, the, by
+Closest to the: the, of, and, s, to, <UNK>
+Closest to eight: eight, six, nine, five, three, four
+
+Iteration: 13000, elapsed time: 0:11:38.291644 [52 sec/1000 iters], loss: 4.221622119426727
+Closest to one: one, five, four, six, three, zero
+Closest to are: are, is, to, and, as, or
+Closest to you: you, we, might, know, could, must
+Closest to time: time, that, the, his, <UNK>, was
+Closest to light: light, speed, enough, user, matter, process
+Closest to in: in, of, and, the, s, <UNK>
+Closest to canada: canada, australia, italy, japan, asia, spain
+
+Iteration: 14000, elapsed time: 0:12:32.272375 [52 sec/1000 iters], loss: 4.220386001825332
+Closest to one: one, nine, five, zero, two, four
+Closest to are: are, is, and, to, or, as
+Closest to you: you, we, might, know, did, could
+Closest to time: time, that, the, his, <UNK>, but
+Closest to eight: eight, nine, seven, five, four, six
+Closest to the: the, of, and, <UNK>, to, s
+Closest to with: with, of, and, by, for, to
+
+Iteration: 15000, elapsed time: 0:13:26.180827 [52 sec/1000 iters], loss: 4.207157159328461
+Closest to one: one, five, three, two, zero, six
+Closest to are: are, is, and, or, to, as
+Closest to you: you, we, might, could, must, say
+Closest to time: time, that, his, the, was, <UNK>
+Closest to la: la, michael, robert, peter, singer, washington
+Closest to of: of, the, and, s, a, in
+Closest to seven: seven, eight, nine, five, six, four
+
+Iteration: 16000, elapsed time: 0:14:19.374400 [52 sec/1000 iters], loss: 4.2036313774585725
+Closest to one: one, nine, eight, two, three, five
+Closest to are: are, is, and, to, as, or
+Closest to you: you, we, could, might, say, said
+Closest to time: time, the, that, <UNK>, to, his
+Closest to ussr: congress, rome, records, russia, division, except
+Closest to the: the, of, and, s, to, <UNK>
+Closest to not: not, it, but, be, this, which
+
+Iteration: 17000, elapsed time: 0:15:13.982274 [53 sec/1000 iters], loss: 4.181877461910248
+Closest to one: one, four, nine, zero, two, eight
+Closest to are: are, is, and, or, as, to
+Closest to you: you, we, know, said, might, come
+Closest to time: time, that, the, was, <UNK>, to
+Closest to from: from, in, to, of, on, and
+Closest to content: objects, surface, likely, element, appears, material
+Closest to who: who, he, they, not, it, had
+
+Iteration: 18000, elapsed time: 0:16:08.118961 [52 sec/1000 iters], loss: 4.13448850607872
+Closest to one: one, three, two, zero, nine, four
+Closest to are: are, is, to, and, or, as
+Closest to you: you, we, might, should, know, said
+Closest to time: time, that, was, it, the, which
+Closest to zero: zero, two, three, four, five, one
+Closest to the: the, of, and, <UNK>, to, s
+Closest to forced: enough, likely, need, better, allowed, able
